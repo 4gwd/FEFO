@@ -9,7 +9,7 @@ $ pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet url
 
 $ rm -rf FEFO
 
-$ git clone https://github.com/Maliksohaill/FEFO
+$ git clone https://github.com/4gwd/FEFO
 
 $ cd FEFO
 
